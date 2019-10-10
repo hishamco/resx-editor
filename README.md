@@ -1,2 +1,2 @@
-# resx-editor
-Resx Localization Editor for Visual Studio Code
+# Resx Editor
+An extension for Visual Studio Code to edit `.resx` localization files
